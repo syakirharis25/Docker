@@ -10,7 +10,7 @@ My works related to Docker, an open source containerization platform.
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="docker.png" height="110">
+<img src="Docker.jpg" height="110">
 Docker is an open source containerization platform. Docker enables developers to package applications into containers—standardized executable components that combine application source code with all the operating system (OS) libraries and dependencies required to run the code in any environment.
 <br /><br />
 While developers can create containers without Docker, Docker makes it easier, simpler, and safer to build, deploy, and manage containers. It’s essentially a toolkit that enables developers to build, deploy, run, update, and stop containers using simple commands and work-saving automation.
