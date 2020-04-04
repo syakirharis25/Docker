@@ -29,6 +29,7 @@ Docker download page : https://www.docker.com/products/docker-desktop <br />
 
 **_documentation by docker docs_** <br />
 docker-compose up : https://docs.docker.com/compose/reference/up/ <br />
+Get started with Docker for Windows : https://docs.docker.com/docker-for-windows/ <br />
 
 **_Docker related articles_** <br />
 What’s the Diff: VMs vs Containers by Roderick Bauer : https://www.backblaze.com/blog/vm-vs-containers/ <br />
