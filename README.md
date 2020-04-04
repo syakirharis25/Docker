@@ -25,6 +25,7 @@ Docker debuted to the public in Santa Clara at PyCon in 2013. It was released as
 ## 2. Official references websites.
 Docker official website : https://www.docker.com <br />
 Docker official documentation : https://docs.docker.com <br />
+Docker download page : https://www.docker.com/products/docker-desktop <br />
 
 **_documentation by docker docs_** <br />
 docker-compose up : https://docs.docker.com/compose/reference/up/ <br />
