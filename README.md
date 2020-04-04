@@ -25,6 +25,9 @@ Docker debuted to the public in Santa Clara at PyCon in 2013. It was released as
 ## 2. Official references websites.
 Docker official website : https://www.docker.com <br />
 
+**_documentation by docker docs_** <br />
+docker-compose up : https://docs.docker.com/compose/reference/up/ <br />
+
 **_Docker related articles_** <br />
 What’s the Diff: VMs vs Containers by Roderick Bauer : https://www.backblaze.com/blog/vm-vs-containers/ <br />
 
