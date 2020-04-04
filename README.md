@@ -25,10 +25,14 @@ Docker debuted to the public in Santa Clara at PyCon in 2013. It was released as
 ## 2. Official references websites.
 Docker official website : https://www.docker.com <br />
 
+**_Docker related articles_** <br />
+What’s the Diff: VMs vs Containers by Roderick Bauer : https://www.backblaze.com/blog/vm-vs-containers/ <br />
+
 <a name="developers"></a>
 ## 3. Docker developers.
 Sebastien Pahl : https://github.com/spahl, https://twitter.com/sebp <br />
 Solomon Hykes : https://github.com/shykes, https://twitter.com/solomonstre <br />
+Roderick Bauer : https://github.com/rodbauer, https://twitter.com/rodbauer <br />
  
 <a name="github"></a>
 ## 4. GitHub notes.
